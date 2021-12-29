@@ -1,0 +1,13 @@
+.wrapper-moreAbutProducts{
+    width: 80vw;
+    margin: 170px auto auto auto; 
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+};
+.wrapper-moreAbutProducts-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+};
